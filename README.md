@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+### À propos
+Diplômé en sciences de l'environnement de l'ETH Zürich, je suis spécialisé dans le domaine de la durabilité environnementale. Ma formation scientifique m'a permis d'acquérir des compétences en collecte et analyse de données ainsi qu'en modélisation que je peux mettre au profit de différents types d'activités faisant usage de données quantitatives, notamment celles en lien avec la durabilité d'entreprise et de la mesure de l'empreinte carbone. De plus, j'ai cumulé plusieurs expériences dans le domaine de la finance durable, centrées sur la collecte et l'analyse de données environnementales, sociales et de gouvernance (ESG). Sur la base de mes compétences techniques et de mon expérience, j'offre les prestations suivantes.
 
-You can use the [editor on GitHub](https://github.com/patrickwfitzgerald/patrickwfitzgerald.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Prestations
 
-### Markdown
+#### Finance durable et données ESG
+- Conseil pour l'établissement d'une stratégie d'investissement durable
+- Récolte et analyse d'informations sur la durabilité d'entreprises
+- Aide à la sélection de services de données ESG adaptées à vos besoins
+- Intégration de facteurs ESG au processus d'investissement
+- Collecte et rédaction d'informations en matière de durabilité de produits d'investissement pour la mise en conformité avec le règlement SFDR
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Durabilité d'entreprise
+- Conseil pour l'établissement d'une stratégie de durabilité
+- Sensibilisation et mobilisation des employés afin de guarantir le succès de la mise en oeuvre
+- Sélection d'indicateurs de performance et établissement d'un système de collecte de données ESG
+- Rédaction de rapports de durabilité
 
-```markdown
-Syntax highlighted code block
+#### Analyse, visualisation et contrôle qualité de données
+- Acquisition des données, consolidation de sources multiples, processus de nettoyage
+- Contrôle qualité de données récoltées en continu avec la mise en place de systèmes de validation et de détection automatique d'erreurs
+- Traitement et visualisation des données pour en extraire plus de valeur
+- Création de dashboards
 
-# Header 1
-## Header 2
-### Header 3
+Outils: Excel, Power BI, Tableau, Python, R
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickwfitzgerald/patrickwfitzgerald.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+Je vous invite à prendre contact à travers [LinkedIn](https://www.linkedin.com/in/patrickwfitzgerald/) afin que nous discutions de la façon dont je pourrais répondre à vos besoins.
