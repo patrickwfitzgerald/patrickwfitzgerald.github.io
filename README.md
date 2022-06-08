@@ -1,5 +1,3 @@
-## Services de conseils en données ESG et durabilité d'entreprise
-
 ### À propos
 Diplômé en sciences de l'environnement de l'ETH Zürich, je suis spécialisé dans le domaine de la durabilité environnementale. Ma formation scientifique m'a permis d'acquérir des compétences en collecte et analyse de données ainsi qu'en modélisation que je peux mettre au profit de différents types d'activités faisant usage de données quantitatives, notamment celles en lien avec la durabilité d'entreprise et de la mesure de l'empreinte carbone. De plus, j'ai cumulé plusieurs expériences dans le domaine de la finance durable, centrées sur la collecte et l'analyse de données environnementales, sociales et de gouvernance (ESG). Sur la base de mes compétences techniques et de mon expérience, j'offre les prestations suivantes.
 
