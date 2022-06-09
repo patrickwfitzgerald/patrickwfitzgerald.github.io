@@ -3,6 +3,8 @@ La durabilité est en passe de devenir un critère incontournable pour les entre
 
 Grâce à ma formation en sciences de l'environnement et mon expérience en collecte et analyse de données ESG, je suis parfaitement équipé pour vous orienter dans l'intégration de facteurs ESG dans vos activités et contribuer à la réussite de vos projets. Mes compétences en analyse et visualisation de données me permettent aussi d'intervenir dans différents projets nécessitant l'extraction d'informations nouvelles à partir de données brutes.
 
+<br>
+
 ### Prestations
 
 #### Finance durable et données ESG
