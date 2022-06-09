@@ -1,7 +1,7 @@
 ### À propos
-Diplômé en sciences de l'environnement de l'ETH Zürich, je suis spécialisé dans le domaine de la durabilité environnementale. Ma formation scientifique m'a permis d'acquérir des compétences en collecte et analyse de données ainsi qu'en modélisation que je peux mettre au profit de différents types d'activités faisant usage de données quantitatives, notamment celles en lien avec la durabilité d'entreprise et de la mesure de l'empreinte carbone. De plus, j'ai cumulé plusieurs expériences dans le domaine de la finance durable, centrées sur la collecte et l'analyse de données environnementales, sociales et de gouvernance (ESG). Sur la base de mes compétences techniques et de mon expérience, j'offre les prestations suivantes.
+La durabilité est en passe de devenir un critère incontournable pour les entreprises mais savoir définir une stratégie de développement durable et d'en mesurer la performance peut s'avérer compliqué compte tenu des nombreux facteurs environnement, sociaux et de gouvernance (ESG) qui entrent en jeu. Il en va de même en matière de finance durable, lorsqu'il s'agit de définir un processus d'investissement durable et identifier quels facteurs ESG sont essentiels et comment les intégrer.
 
-<br>
+Grâce à ma formation en sciences de l'environnement et mon expérience en collecte et analyse de données ESG, je suis parfaitement équipé pour vous orienter dans l'intégration de facteurs ESG dans vos activités et contribuer à la réussite de vos projets. Mes compétences en analyse et visualisation de données me permettent aussi d'intervenir dans différents projets nécessitant l'extraction d'informations nouvelles à partir de données brutes.
 
 ### Prestations
 
@@ -24,9 +24,9 @@ Diplômé en sciences de l'environnement de l'ETH Zürich, je suis spécialisé 
 - Traitement et visualisation des données pour en extraire de la valeur
 - Création de dashboards
 
-Outils: Excel, Power BI, Tableau, Python, R
+Outils : Excel, Power BI, Tableau, [Python](https://patrickwfitzgerald.github.io/portfolio/), R
 
 <br>
 
 ### Contact
-Je vous invite à prendre contact par email ou à travers [LinkedIn](https://www.linkedin.com/in/patrickwfitzgerald/) afin que nous discutions de la façon dont je pourrais répondre à vos besoins.
+Je vous invite à prendre contact par email ou à travers [LinkedIn](https://www.linkedin.com/in/patrickwfitzgerald/) pour tout renseignement complémentaire.
